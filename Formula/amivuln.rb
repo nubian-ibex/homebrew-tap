@@ -3,8 +3,8 @@
 class Amivuln < Formula
   desc "Backport-aware CVE check for binaries, services and packages on this host"
   homepage "https://github.com/nubian-ibex/amivuln"
-  url "https://github.com/nubian-ibex/amivuln/releases/download/v0.4.0/source.tar.gz"
-  sha256 "461c0bcee1bd1255f3256a86f9277d95f1111c2cf50d8ed99ca7a1c0cbb60456"
+  url "https://github.com/nubian-ibex/amivuln/releases/download/v0.4.1/source.tar.gz"
+  sha256 "5cc9d3cbb51b49ce13bd20cd798a4549195a6683d25f9eec6d633bc637ac7310"
   license "MIT OR Apache-2.0"
 
   livecheck do
